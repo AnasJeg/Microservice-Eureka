@@ -1,0 +1,5 @@
+com/eurekaclient/EurekaClientApplication.class
+com/eurekaclient/Repository/ClientRepository.class
+com/eurekaclient/Entities/Client.class
+com/eurekaclient/Controller/ClientController.class
+com/eurekaclient/Service/ClientServ.class
